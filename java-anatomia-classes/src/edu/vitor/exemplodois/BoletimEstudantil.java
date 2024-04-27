@@ -1,4 +1,4 @@
-package edu.vitor.primeirasemana;
+package edu.vitor.exemplodois;
 
 public class BoletimEstudantil {
     public static void main(String[] args) {
